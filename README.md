@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @NiktoX2 / Привет, я НиктоХ2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# NiktoX2 | Lost Summer Time
+### Without English language support
 
-<!---
-NiktoX2/NiktoX2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Доброе времени суток, НиктоХ2 или просто Руслан как всегда на связи
+
